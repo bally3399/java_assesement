@@ -1,0 +1,2 @@
+password = 'baliqis'
+len(password)
