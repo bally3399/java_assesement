@@ -1,2 +1,0 @@
-password = 'baliqis'
-len(password)
